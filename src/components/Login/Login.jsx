@@ -27,7 +27,7 @@ function Login() {
           <div className="row">
             <span className="mt-5"><Logo /></span>
             <div className="form" style={formstyle}>
-              <h3 style={loginstyle}>Login</h3>
+              <h3 style={loginstyle}>Login 12</h3>
               <p style={{ marginBottom: "50px", color: "#c7c7c7", fontSize: "18" }} >Don't have an account? <a href="" style={{ textDecoration: "none", color: "orange" }}>Register Here</a> </p>
               <MobileInput />
               <PasswordInput />
